@@ -968,8 +968,8 @@ th {
   content: "\00a5";
 }
 .glyphicon-jpy:before {
-  content: "\00a5";bt
-
+  content: "\00a5";
+}
 .glyphicon-ruble:before {
   content: "\20bd";
 }
@@ -6581,4 +6581,3 @@ button.close {
     display: none !important;
   }
 }
-/*# sourceMappingURL=bootstrap.css.map */
