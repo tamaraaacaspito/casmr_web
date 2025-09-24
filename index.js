@@ -1,0 +1,2 @@
+print("Hola")
+var tablas;
